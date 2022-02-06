@@ -2725,7 +2725,7 @@ GameObject:
   - component: {fileID: 1298390654}
   - component: {fileID: 1298390653}
   - component: {fileID: 1298390652}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Goal
   m_TagString: Safe
   m_Icon: {fileID: 0}
@@ -2803,7 +2803,7 @@ Transform:
   m_GameObject: {fileID: 1298390651}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -17.64, y: 0.5, z: -22.1}
-  m_LocalScale: {x: 7.17, y: 1, z: 6.3}
+  m_LocalScale: {x: 8.55, y: 1, z: 6.3}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
