@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
 {
     public void Restart()
     {        
-        SceneManager.LoadScene("AIPeli");
+        SceneManager.LoadScene("Winston");
     }
 
     public void Finish()
